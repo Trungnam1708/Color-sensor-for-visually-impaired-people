@@ -47,19 +47,19 @@ When a new color is detected, the wearable module transmits the color informatio
 
 ## System Architecture
 
-![System Architecture](Device image.jpg)
+![System Architecture](Device%20image.jpg)
 
 ---
 
 ## Wearable Sensor Circuit
 
-![Wearable Sensor Circuit](Bracelet device.png)
+![Wearable Sensor Circuit](Bracelet%20device.png)
 
 ---
 
 ## Audio Receiver Circuit
 
-![Audio Receiver Circuit](Headphone device.png)
+![Audio Receiver Circuit](Headphone%20device.png)
 
 ---
 
